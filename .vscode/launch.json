@@ -1,0 +1,154 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Practice1",
+            "request": "launch",
+            "mainClass": "Practice1",
+            "projectName": "Java nd DSA_a4e1e879"
+        },
+        {
+            "type": "java",
+            "name": "ComplexPattern",
+            "request": "launch",
+            "mainClass": "Loops.ComplexPattern",
+            "projectName": "Java nd DSA_a4e1e879"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Conditional",
+            "request": "launch",
+            "mainClass": "ConditionalStatement.Conditional",
+            "projectName": "Java nd DSA_a4e1e879"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "ConditionalStatement.Switch",
+            "projectName": "Java nd DSA_a4e1e879"
+        },
+        {
+            "type": "java",
+            "name": "Ternary",
+            "request": "launch",
+            "mainClass": "ConditionalStatement.Ternary",
+            "projectName": "Java nd DSA_a4e1e879"
+        },
+        {
+            "type": "java",
+            "name": "DataTypes",
+            "request": "launch",
+            "mainClass": "DataTypes",
+            "projectName": "Java nd DSA_a4e1e879"
+        },
+        {
+            "type": "java",
+            "name": "First",
+            "request": "launch",
+            "mainClass": "First",
+            "projectName": "Java nd DSA_a4e1e879"
+        },
+        {
+            "type": "java",
+            "name": "DoWhile",
+            "request": "launch",
+            "mainClass": "Loops.DoWhile",
+            "projectName": "Java nd DSA_a4e1e879"
+        },
+        {
+            "type": "java",
+            "name": "For",
+            "request": "launch",
+            "mainClass": "Loops.For",
+            "projectName": "Java nd DSA_a4e1e879"
+        },
+        {
+            "type": "java",
+            "name": "NestedLoops",
+            "request": "launch",
+            "mainClass": "Loops.NestedLoops",
+            "projectName": "Java nd DSA_a4e1e879"
+        },
+        {
+            "type": "java",
+            "name": "Pattern",
+            "request": "launch",
+            "mainClass": "Loops.Pattern",
+            "projectName": "Java nd DSA_a4e1e879"
+        },
+        {
+            "type": "java",
+            "name": "Printing",
+            "request": "launch",
+            "mainClass": "Loops.Printing",
+            "projectName": "Java nd DSA_a4e1e879"
+        },
+        {
+            "type": "java",
+            "name": "While",
+            "request": "launch",
+            "mainClass": "Loops.While",
+            "projectName": "Java nd DSA_a4e1e879"
+        },
+        {
+            "type": "java",
+            "name": "Arithmetic",
+            "request": "launch",
+            "mainClass": "Operators.Arithmetic",
+            "projectName": "Java nd DSA_a4e1e879"
+        },
+        {
+            "type": "java",
+            "name": "Assignment",
+            "request": "launch",
+            "mainClass": "Operators.Assignment",
+            "projectName": "Java nd DSA_a4e1e879"
+        },
+        {
+            "type": "java",
+            "name": "IncrementAndDecrement",
+            "request": "launch",
+            "mainClass": "Operators.IncrementAndDecrement",
+            "projectName": "Java nd DSA_a4e1e879"
+        },
+        {
+            "type": "java",
+            "name": "Logical",
+            "request": "launch",
+            "mainClass": "Operators.Logical",
+            "projectName": "Java nd DSA_a4e1e879"
+        },
+        {
+            "type": "java",
+            "name": "Relational",
+            "request": "launch",
+            "mainClass": "Operators.Relational",
+            "projectName": "Java nd DSA_a4e1e879"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "Java nd DSA_a4e1e879"
+        },
+        {
+            "type": "java",
+            "name": "TypeCasting",
+            "request": "launch",
+            "mainClass": "TypeCasting",
+            "projectName": "Java nd DSA_a4e1e879"
+        }
+    ]
+}
